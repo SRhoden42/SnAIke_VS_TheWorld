@@ -11,7 +11,7 @@ using dir and cd
 2nd: build your enviornment
 ie. "conda create -n snAIke_vs_theworld_env python=3.10"
 
-"HELP"
+"Breakdown"
 conda - app
 create - command
 -n snAIke_vs_theworld_env - name
