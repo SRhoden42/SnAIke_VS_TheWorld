@@ -1,7 +1,7 @@
 PreReqs:
 Insatall Anaconda 
 Launch the CMD.exe prompt
-Copy in the agent.py, game.py, helper.py, model.py, and arial.ttf files into your working folder
+Download the agent.py, game.py, helper.py, model.py, and arial.ttf files into your working folder
 
 
 1st: navagate to the folder in your terminal 
