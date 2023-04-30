@@ -1,0 +1,39 @@
+PreReqs:
+Insatall Anaconda 
+Launch the CMD.exe prompt
+Copy in the agent.py, game.py, helper.py, model.py, and arial.ttf files into your working folder
+
+
+1st: navagate to the folder in your terminal 
+using dir and cd
+
+
+2nd: build your enviornment
+ie. "conda create -n snAIke_vs_theworld_env python=3.10"
+
+"HELP"
+conda - app
+create - command
+-n snAIke_vs_theworld_env - name
+python=3.10 - version
+
+
+3rd: activate your enviornment
+ie. "conda activate snAIke_vs_theworld_env"
+
+
+4th: install the rest of your dependancies 
+like: 
+pygame, 
+pytorch,
+matplotlib,
+ipython
+
+with: 
+pip install pygame, 
+pip3 install torch torchvision(source: https://pytorch.org/get-started/locally/)
+pip install matplotlib
+pip install ipython
+
+5th: start your agent
+ie. "python agent.py"
